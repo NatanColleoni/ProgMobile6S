@@ -6,6 +6,7 @@ void main(List<String> arguments) {
   
   // 04/08/2023 - Aula 1 -  variaveis, nullable/non-nullable, late
   // 04/08/2023 - Aula 2 - const, final, list, set, tipos, map - equivalente a dicionários em c#, spread
+  // 04/08/2023 - Exercício
   /*
   var nome = 'Natan';
   /*
@@ -55,7 +56,12 @@ void main(List<String> arguments) {
   // var novaLista = ['Macarrão', ...listaCompra];
 
   // print(novaLista);
+
+  //nome do aluno, materia, lista de notas
+  Map<String, Map<String, List<int>>> alunos; 
+
 }
+
 /*
 String _getNome() {
   return "";
