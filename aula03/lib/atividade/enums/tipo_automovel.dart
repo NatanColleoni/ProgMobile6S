@@ -1,0 +1,1 @@
+enum TipoAutomovel { passeio, profissional, transporte, carga }

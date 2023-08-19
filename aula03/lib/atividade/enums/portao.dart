@@ -1,0 +1,1 @@
+enum Portao { automatico, manual }
