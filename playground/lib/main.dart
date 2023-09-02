@@ -2,5 +2,5 @@ import 'package:flutter/material.dart';
 import 'package:playground/view/app.dart';
 
 void main() {
-  runApp(App());
+  runApp(const App());
 }

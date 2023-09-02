@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:playground/view/home.dart';
 
 class App extends StatelessWidget {
   
+  const App({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -10,6 +13,7 @@ class App extends StatelessWidget {
           seedColor: Colors.purple.shade400
         ),
       ),
+      home: const Home(),
     );
   }
 
