@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# LINK DO REPOSITÓRIO DO PROFESSOR
+https://github.com/halmeidaprof/dart-poo-example

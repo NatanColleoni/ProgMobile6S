@@ -1,4 +1,4 @@
-import 'package:revisao/domain/enums/StatusPedido.dart';
+import 'package:revisao/domain/enums/status_pedido.dart';
 import 'package:revisao/domain/pessoa.dart';
 import 'package:revisao/domain/produto.dart';
 
