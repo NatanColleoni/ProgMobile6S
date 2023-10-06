@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:playground/view/count.dart';
+import 'package:playground/view/info.dart';
 
 class Home extends StatelessWidget {
   
@@ -17,7 +19,7 @@ class Home extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Theme.of(context).colorScheme.primary,
       ),
-      body: const Text('Texto do corpo'),
+      body: const Count()
     );
   }
 
