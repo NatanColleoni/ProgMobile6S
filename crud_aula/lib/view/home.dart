@@ -1,3 +1,4 @@
+import 'package:crud_aula/view/list_name.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {
@@ -16,6 +17,7 @@ class Home extends StatelessWidget {
         ),
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
       ),
+      body: const ListName(),
     );
   }
 }
