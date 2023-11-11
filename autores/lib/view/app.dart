@@ -1,9 +1,9 @@
-import 'package:autores/view/list-autor.dart';
+import 'package:autores/view/list_autor.dart';
 import 'package:flutter/material.dart';
 
-class Home extends StatelessWidget {
+class App extends StatelessWidget {
   
-  const Home({super.key});
+  const App({super.key});
   
   @override
   Widget build(BuildContext context) {
